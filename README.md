@@ -18,7 +18,7 @@ With the help of Jetpack Compose it reduce too much code, Now we can write Lengt
 
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 <br />
-<img src="/results/screenshot_4.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">
+<img src="/results/screenshot_3.png" width="260">&emsp;<img src="/results/screenshot_4.png" width="260">
 <br />
 
 ## License
